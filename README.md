@@ -1,4 +1,4 @@
-![Banner](https://github.com/paolagay/paolagay/blob/main/readme_banner.png?raw=true)
+![Banner](https://github.com/paolagay/paolagay/blob/main/readme_ban.png?raw=true)
 
 # ABOUT ME
 
